@@ -13,6 +13,14 @@
 	. $HOME/.config/fish/packages.fish
 	```
 
-# Licensing
+## Compatibility
 
-It's licensed to the conditions of the ZLib-License, so nobody can complain to not have a LICENSE!
+Currently macOS (brew), Void Linux (xbps) and Arch Linux (pacman) is supported.
+
+But to be honest, just google how to get the amount of outdated packages for *your* package manager and insert it into the `packages.fish`
+
+## Licensing
+
+Everything is licensed under the conditions of the ZLib-License, so nobody can complain about not having a LICENSE!
+
+> *made with love and cat-memes*
